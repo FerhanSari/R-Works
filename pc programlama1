@@ -1,0 +1,5 @@
+rm(list = ls())
+getwd() # Varsayýlan çalýþma dizinini getirir
+setwd("C:/Users/gokha/Desktop/Gökhan/Okul/Bilgisayar Programlama")
+# Eðer el ile setwd() ayarlamak istersek slashlarý ters çevirmemiz gerekir
+
